@@ -1,4 +1,4 @@
-package loiane.groner.aula05;
+package com.loiane.cursojava.aula05;
 
 // class = Declaração da Classe
 // HelloWorld = Nome da Classe

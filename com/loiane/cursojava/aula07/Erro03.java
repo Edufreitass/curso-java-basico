@@ -1,6 +1,6 @@
-package loiane.groner.aula07;
+package com.loiane.cursojava.aula07;
 
-public class Erro02 {
+public class Erro03 {
 
 	// Tipos de Erros
 	// Exemplos:
@@ -8,12 +8,13 @@ public class Erro02 {
 	// - Erros de Semântica = Tentar declarar uma variavel do jeito que o Java não esteja esperando.
 	// - Erros de Tempo de Execução = Criar uma classe e esquecer o método MAIN
 	
-	// Erro de Semântica
+	// Erro de Tempo de Execução
+	// Método "main" com "M" maiusculo, compila, porem na execução causará ERRO!
+//	public static void Main(String[] args) {	
 	public static void main(String[] args) {
 
-		int cont;
-		// Variavel nao foi inicializada
-//		System.out.println(cont);
+		// Compila, mas a divisão por ZERO, causara ERRO em TEMPO DE EXECUÇÃO, lançando uma ArithmeticException
+		System.out.println("Você digitou: " + 1/0);
 	
 	}
 }
