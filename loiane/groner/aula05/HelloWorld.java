@@ -1,4 +1,4 @@
-package aula05;
+package loiane.groner.aula05;
 
 // class = Declaração da Classe
 // HelloWorld = Nome da Classe
