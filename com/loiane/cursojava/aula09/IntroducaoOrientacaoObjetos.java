@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula08;
+package com.loiane.cursojava.aula09;
 
 public class IntroducaoOrientacaoObjetos {
 
