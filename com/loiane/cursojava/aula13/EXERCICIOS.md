@@ -84,5 +84,5 @@ Obs.: Salário Bruto - Descontos = Salário Líquido.
 informe o tempo aproximado de download do arquivo usando este link (em minutos).
 
 ***
-- Link do curso: http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/
+- Link do curso: https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r
 - Fonte dos exercícios: http://wiki.python.org.br//EstruturaSequencial
