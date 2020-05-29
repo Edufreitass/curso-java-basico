@@ -31,6 +31,17 @@ public class CondicionaisIfElse {
 	 * 
 	 * Múltiplos IF - ELSE
 	 * - É possível ter vários if-else aninhados!
+	 * 
+	 * Exemplo:
+	 * 		if (condicao) {
+	 * 			// código
+	 * 		} else if (condicao) {
+	 * 			// código
+	 * 		} else if (condicao) {
+	 * 			// código
+	 * 		} else {
+	 * 			// código
+	 * 		}
 	 */
 	
 }
