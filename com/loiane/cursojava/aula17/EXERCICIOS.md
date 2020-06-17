@@ -68,9 +68,6 @@
 	 0,1,1,2,3,5,8,13,21,34,55,... Faça um programa que gere a série até
 	 que o valor seja maior que 500. 
 ***
-	 17) Faça um programa que calcule o fatorial de um número inteiro 
-	 fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120 
-***
 	 18) Faça um programa que peça um número inteiro e determine se ele é 
 	 ou não um número primo. Um número primo é aquele que é divisível 
 	 somente por ele mesmo e por 1. 
@@ -127,7 +124,8 @@
 	 que o cliente forneceu, para então calcular e mostrar o valor do troco.
 	 Após esta operação, o programa deverá voltar ao ponto inicial, para 
 	 registrar a próxima compra. A saída deve ser conforme o exemplo abaixo: 
-	 	o Lojas Tabajara o Produto 1: R$ 2.20 
+	 	o Lojas Tabajara 
+	 	o Produto 1: R$ 2.20 
 	 	o Produto 2: R$ 5.80 
 	 	o Produto 3: R$ 0 
 	 	o Total: R$ 9.00 
@@ -138,7 +136,8 @@
 	26) Faça um programa que calcule o fatorial de um número inteiro 
 	fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120. A saída deve ser 
 	conforme o exemplo abaixo: 
-	o Fatorial de: 5 o 5! = 5 . 4 . 3 . 2 . 1 = 120 
+	o Fatorial de: 5 
+	o 5! = 5 . 4 . 3 . 2 . 1 = 120 
 ***
 	27) O Departamento Estadual de Meteorologia lhe contratou para 
 	desenvolver um programa que leia as um conjunto indeterminado de 
@@ -196,13 +195,6 @@
 	Imprima no final a soma da série. 
 ***
 	34) Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, 
-	Faça um programa que calcule o valor de H com N termos. 
-***
-	35) Faça um programa que mostre os n termos da Série a seguir: 
-	o S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m. 
-	Imprima no final a soma da série.   
-***
-	36) Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, 
 	Faça um programa que calcule o valor de H com N termos. 
 ***
 [Link do curso](http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/)
