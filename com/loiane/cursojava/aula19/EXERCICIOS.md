@@ -175,4 +175,4 @@
 	mesmo tamanho, sendo que cada elemento do vetor B seja o fatorial 
 	do elemento correspondente em A.
 ***
-[Link do curso](http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/)  
+[Link do curso](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)  
