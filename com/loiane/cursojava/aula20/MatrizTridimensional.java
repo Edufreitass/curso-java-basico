@@ -3,6 +3,19 @@ package com.loiane.cursojava.aula20;
 public class MatrizTridimensional {
 
 	// Parte 3: Matrizes 3 dimensões
+	
+	/*
+	 * Faça um programa que crie uma matriz 3x3x3
+	 * onde cada elemento da matriz seja igual a 
+	 * soma dos seus índices (exemplo: M[1,2,1] =
+	 * 1+2+1 = 4).
+	 * Obtenha a soma de todos elementos da matriz,
+	 * e obtenha soma dos elementos cujos valores
+	 * são pares e a soma dos elementos cujos
+	 * valores são ímpares.
+	 * Exibir na tela os valores da soma total, soma
+	 * dos pares e soma dos ímpares.
+	 */
 	public static void main(String[] args) {
 
 		int[][][] matrizTridimensional = new int[3][3][3];

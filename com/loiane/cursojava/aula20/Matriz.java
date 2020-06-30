@@ -56,7 +56,13 @@ public class Matriz {
 	 *  notasAlunos[1][3] = 9;
 	 *  
 	 *  - Array de arrays
-	 *  double[][] notasAlunos2 = {{ 10, 7, 8, 9.5}, {9, 8, 7, 9}};
+	 *  	double[][] notasAlunos2 = {{ 10, 7, 8, 9.5}, {9, 8, 7, 9}};
+	 *  
+	 *  - Arrays irregulares
+	 * 		int[][] arrayIrregular = new int[3][];
+	 *  	arrayIrregular[0] = new int[1];
+	 *  	arrayIrregular[1] = new int[2];
+	 *  	arrayIrregular[2] = new int[3];
 	 */
 	
 }
