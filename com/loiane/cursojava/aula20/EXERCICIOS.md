@@ -28,4 +28,4 @@
 	quem foi o vencedor (jogador1 ou jogador2). A cada nova jogada, o programa deve atualizar a situação 
 	do tabuleiro na tela. 
 ***
-	[Link do curso](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+[Link do curso](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
