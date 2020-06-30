@@ -87,8 +87,7 @@
 	20) Implementar um programa que obtenha a cotação do dólar (U$) em 
 	relação ao real (R$) e a seguir armazene em vetor A com 20 
 	elementos as seguintes conversões: 
-***
-	21) A[i] = cotação do dolar * i, para todo i variando de 1 até 20. 
+	A[i] = cotação do dolar * i, para todo i variando de 1 até 20. 
 ***
 	22) Gerar aleatoriamente um vetor A com 10 elementos inteiros e iguais 
 	a 0 e 1, sugestão: A[i] = (int)Math.round(Math.random() * 1); Pede-se 
@@ -112,8 +111,8 @@
 ***
 	25) Criar um vetor A com 10 elementos inteiros. Construir um vetor B de 
 	mesmo tipo e tamanho, obedecendo as seguintes regras de formação: 
-	a) Bi deverá receber 1 quando Ai for par; b) Bi deverá receber 0 
-	quando Ai for ímpar. 
+		a) Bi deverá receber 1 quando Ai for par; 
+		b) Bi deverá receber 0 quando Ai for ímpar. 
 ***
 	26) Criar dois vetores A e B cada um com 10 elementos inteiros. Construir 
 	um vetor C de mesmo tipo e tamanho, obedecendo as seguintes regras de formação: 
