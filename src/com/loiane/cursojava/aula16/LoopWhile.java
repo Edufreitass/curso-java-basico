@@ -8,7 +8,8 @@ public class LoopWhile {
 	 * - Esse comando avalia uma expressão e caso verdadeira executa o bloco dentro do comando while.
 	 * 
 	 * Comando do-while
-	 * - Esse comando executa o bloco dentro do comando do e depois avalia a expressão. O bloco deixa de ser executado após a expressão ficar falsa.
+	 * - Esse comando executa o bloco dentro do comando do e depois avalia a expressão. 
+	 * O bloco deixa de ser executado após a expressão ficar falsa.
 	 */
 	
 	public static void main(String... args) {
