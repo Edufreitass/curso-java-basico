@@ -27,10 +27,10 @@ public class Arrays {
 		*/
 
 		// BOA PRÁTICA, declarar o tipo da variavel e logo em seguida o array[]
-//		double[] celsius;
+		// double[] celsius;
 
 		// MÁ PRÁTICA
-//		double fahrenheit[];
+		// double fahrenheit[];
 
 		double[] temperaturas = new double[365];
 		temperaturas[0] = 31.3;
