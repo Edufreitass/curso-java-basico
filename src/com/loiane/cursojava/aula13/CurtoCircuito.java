@@ -36,4 +36,5 @@ public class CurtoCircuito {
 		System.out.println(resultado);
 		
 	}
+	
 }
