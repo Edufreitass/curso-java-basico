@@ -200,5 +200,3 @@
 [Link do curso](http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/)
 
 [Link dos exercícios no slideshare.](http://www.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-16-17)
-
-[Fonte dos exercícios](http://wiki.python.org.br/EstruturaDeRepeticao)
