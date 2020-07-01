@@ -26,7 +26,7 @@ public class Goto {
 			}
 			System.out.println(i);
 		}
-		
+
 	}
 
 }
