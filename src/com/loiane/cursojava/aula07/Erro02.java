@@ -13,7 +13,8 @@ public class Erro02 {
 
 		int cont;
 		// Variavel nao foi inicializada
-//		System.out.println(cont);
+		// System.out.println(cont);
 	
 	}
+	
 }
