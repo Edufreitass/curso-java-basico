@@ -46,6 +46,8 @@ public class LeituraDadosTeclado {
 		System.out.println("Altura: " + altura);
 		System.out.println("Você é Flameguista? " + eFlamenguista);
 		
+		scan.close();
+		
 	}
 
 }
