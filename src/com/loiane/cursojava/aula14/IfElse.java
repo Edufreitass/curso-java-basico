@@ -40,6 +40,7 @@ public class IfElse {
 		}
 		
 		scan.close();
+		
 	}
 	
 }
