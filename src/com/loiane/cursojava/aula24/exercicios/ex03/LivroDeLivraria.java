@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula24.exercicios;
+package com.loiane.cursojava.aula24.exercicios.ex03;
 
 public class LivroDeLivraria {
 

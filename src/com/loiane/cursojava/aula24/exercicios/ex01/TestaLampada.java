@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula24.exercicios;
+package com.loiane.cursojava.aula24.exercicios.ex01;
 
-public class Exercicio01 {
+public class TestaLampada {
 
 	// 1) Escreva uma classe para representar uma lâmpada que está à venda em um
 	// supermercado.

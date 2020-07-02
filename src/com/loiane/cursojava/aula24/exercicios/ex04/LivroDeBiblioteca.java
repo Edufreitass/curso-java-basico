@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula24.exercicios;
+package com.loiane.cursojava.aula24.exercicios.ex04;
 
 import java.util.Date;
 

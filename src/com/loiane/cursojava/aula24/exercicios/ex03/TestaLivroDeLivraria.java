@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula24.exercicios;
+package com.loiane.cursojava.aula24.exercicios.ex03;
 
-public class Exercicio03 {
+public class TestaLivroDeLivraria {
 
 	/*
 	 * 3) Usando o resultado do exercício anterior como base, crie uma classe

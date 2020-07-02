@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula24.exercicios;
+package com.loiane.cursojava.aula24.exercicios.ex02;
 
-public class Exercicio02 {
+public class TestaLivro {
 
 	// 2) Crie uma classe Livro que represente os dados básicos de um livro, sem se
 	// preocupar com a sua finalidade.

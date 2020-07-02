@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula24.exercicios;
+package com.loiane.cursojava.aula24.exercicios.ex05;
 
-public class Exercicio05 {
+public class TestaContaCorrente {
 
 	/*
 	 * 5) Cria uma classe para representar uma conta corrente que possui um número,

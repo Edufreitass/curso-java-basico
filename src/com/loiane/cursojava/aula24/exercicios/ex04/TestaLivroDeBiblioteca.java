@@ -1,8 +1,8 @@
-package com.loiane.cursojava.aula24.exercicios;
+package com.loiane.cursojava.aula24.exercicios.ex04;
 
 import java.util.Date;
 
-public class Exercicio04 {
+public class TestaLivroDeBiblioteca {
 
 	/*
 	 * 4) Usando o resultado do modelo “Livro” como base, crie uma classe

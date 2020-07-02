@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula24.exercicios;
+package com.loiane.cursojava.aula24.exercicios.ex06;
 
-public class Exercicio06 {
+public class TestaContato {
 
 	// 6) Crie uma classe que represente um contato da agenda do seu celular.
 	public static void main(String[] args) {
