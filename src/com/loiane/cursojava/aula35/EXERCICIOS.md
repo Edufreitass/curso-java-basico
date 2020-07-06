@@ -14,26 +14,30 @@
 - Método que chama ele mesmo
 - Precisa de um ponto de parada
 
-- Exemplo: Fatorial de **5! = 5 *4 * 3 * 2 * 1 = 120**
+- Exemplo: 
+	- Fatorial de 5! = 5 *4 * 3 * 2 * 1 = 120
 
-	
-	// Método NÃO recursivo
-	public int calculaFatorial(int num) {
-		int total = 1;
-		for (int i = num; i > 1; i--) {
-			total *= i;
-		}
-		return total;
+```java
+// Método NÃO recursivo
+public int calculaFatorial(int num) {
+	int total = 1;
+	for (int i = num; i > 1; i--) {
+		total *= i;
 	}
+	return total;
+}
+```
 
-	// Método RECURSIVO
-	public int fatorial(int num) {
-		// ponto de parada
-		if (num == 0) {
-			return 1;
-		}
-		// chama ele mesmo
-		return num * fatorial(num - 1);
+```java
+// Método RECURSIVO
+public int fatorial(int num) {
+	// ponto de parada
+	if (num == 0) {
+		return 1;
 	}
+	// chama ele mesmo
+	return num * fatorial(num - 1);
+}
+```
 
 [Link do curso](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
